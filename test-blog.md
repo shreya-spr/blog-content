@@ -7,3 +7,4 @@ I will write about all things tech here!
 ### Example Code
 ```js
 console.log("Hello from the blog!");
+```
